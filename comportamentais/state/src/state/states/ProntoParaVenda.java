@@ -13,7 +13,7 @@ public class ProntoParaVenda implements State {
     @Override
     public void pagarCafe() {
         System.out.println("Pagamento recebido. Preparando sua bebida...");
-        // Aqui você pode simular a transição para o estado de preparo
+       
     }
 
     @Override
