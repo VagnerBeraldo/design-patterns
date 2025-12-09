@@ -34,21 +34,3 @@ public class LogMaritima extends Logistica{
 
         }
     }
-
-    // para duas opções de transporte
-//    private boolean grandePorte;
-//
-//    public LogMaritima(boolean grandePorte) {
-//        this.grandePorte = grandePorte;
-//    }
-//
-//    @Override
-//    public Transportes criarTransporte() {
-//        if(grandePorte){
-//            return new NavioCargueiro();
-//        }else{
-//            return new EmbarcacaoMedia();
-//        }
-//
-//    }
-}
