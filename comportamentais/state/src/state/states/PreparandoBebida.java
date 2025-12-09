@@ -17,6 +17,6 @@ public class PreparandoBebida implements State {
     @Override
     public void retirarProduto() {
         System.out.println("Retire seu café. Obrigado!");
-        // Aqui você pode chamar a transição para outro estado, como ProntoParaVenda
+        
     }
 }
